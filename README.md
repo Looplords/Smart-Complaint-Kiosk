@@ -103,7 +103,7 @@ We propose a <b>Smart AI-Based Hardware Kiosk</b> that assists users in filing c
 <h2>🏗️ System Architecture</h2>
 
 <p align="center">
-  <img src="docs/hackathon1.png" width="900"/>
+  <img src="hackathon1.png" width="900"/>
 </p>
 
 <hr>
